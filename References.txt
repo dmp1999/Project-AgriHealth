@@ -1,0 +1,19 @@
+1) IMU
+https://www.seeedstudio.com/Grove-IMU-10DOF-v2-0.html?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRbi7QpZPwADoA7pD3NZo5p1Me5peDE3XszALwrREMvL-rjDCYvs1l0aAnxvEALw_wcB
+
+2) GPS
+https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/
+
+3) RGB-D
+https://www.bhphotovideo.com/c/product/1432415-REG/intel_82635awgdvkprq_realsense_d435_webcam.html/?ap=y&ap=y&smp=y&smp=y&lsft=BI%3A514&gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZj8fB7cZh9DsM0YF866eh-r_ivzhRSbstDqBL_LyFNLYllK8822DoaAlhLEALw_wcB
+https://support.intelrealsense.com/hc/en-us/community/posts/360051256734-Amp-consumption-camera-d435
+
+4) TIR
+https://www.testequipmentdepot.com/flir/aerial-drones/thermal-cameras/vue-pro-thermal-imager-drones-flirvuepro33613mm9hz.htm?ref=gbase&gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRbs_FyVkormjs_zlO6STOfbvxNmW5xorTp64cIhKf63-RrZBxptwwYaAp77EALw_wcB
+https://www.testequipmentdepot.com/flir/pdf/vue-pro_datasheet.pdf
+
+5) Motor
+https://www.electrocraft.com/products/bldc/RPX52/
+
+6) Battery
+https://www.amazon.com/Lithium-Battery-LiFePO4-Trolling-Off-Grid/dp/B09S5LVMPH/ref=sr_1_3?keywords=100ah+lithium+battery&qid=1648357808&sr=8-3
